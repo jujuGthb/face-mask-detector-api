@@ -21,7 +21,7 @@ build/
 *.egg-info/
 
 # PyTorch model files (if large)
-*.pth
+
 *.pt
 *.onnx
 
