@@ -2,7 +2,7 @@
 fastapi>=0.75.0
 uvicorn>=0.17.6
 torch==2.5.1
-torchvision==0.20.1+cpu
+torchvision==0.20.1
 opencv-python-headless>=4.5.5
 scikit-learn>=1.0
 python-multipart>=0.0.5
